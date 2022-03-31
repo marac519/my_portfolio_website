@@ -7,4 +7,4 @@ https://marac519.github.io/my_portfolio_website/
 
 <br>
 <br>
-![Screenshot_34](https://user-images.githubusercontent.com/88187833/161062063-411e4713-6a31-4cf4-8822-d7030c997f11.jpg)
+<img src="https://user-images.githubusercontent.com/88187833/161062063-411e4713-6a31-4cf4-8822-d7030c997f11.jpg">
