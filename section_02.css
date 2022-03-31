@@ -1,0 +1,59 @@
+section#masodik {
+    min-width: 150%;
+    background-color: #0b0b0b;
+    color: aliceblue;
+    overflow-y: hidden;
+}
+#masodik_content {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+#welcome_to_my_portfolio {
+    border: 2px #F4F4F6 solid;
+    width: 60px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow-y: hidden;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#welcome_to_my_portfolio div {
+    /* transform: translate(-30%, 100%);
+    transform: rotate(90deg); */
+    /* display: flex; */
+    /* height: 100%; */
+    /* min-width: 500px; */
+}
+#welcome_to_my_portfolio h2 {
+    margin-top: -15px;
+    margin-bottom: -15px;
+    max-width: 35px;
+    font-family: 'Kanit', sans-serif;
+    /* padding-right: 15px; */
+}
+.welcome_bal h2 {
+    transform: rotate(-90deg);
+}
+.welcome_jobb h2 {
+    transform: rotate(90deg);
+}
+
+#masodik_center {
+    color: #F4F4F6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+#masodik_center h1 {
+    /* transform: translateX(-70%); */
+    transform: translateY(-50%);
+}
